@@ -7,10 +7,10 @@ export const projectsData = [
       "As Uber works through a huge amount of internal management turmoil.",
     route: "/dashboard/profile",
     members: [
-      { img: "/img/team-1.jpeg", name: "Romina Hadid" },
-      { img: "/img/team-2.jpeg", name: "Ryan Tompson" },
-      { img: "/img/team-3.jpeg", name: "Jessica Doe" },
-      { img: "/img/team-4.jpeg", name: "Fernando Smith" },
+      { img: "/img/me-nerd.png", name: "Romina Hadid" },
+      { img: "/img/me-nerd.png", name: "Ryan Tompson" },
+      { img: "/img/me-nerd.png", name: "Jessica Doe" },
+      { img: "/img/me-nerd.png", name: "Fernando Smith" },
     ],
   },
   {
@@ -21,10 +21,10 @@ export const projectsData = [
       "Music is something that every person has his or her own specific opinion about.",
     route: "/dashboard/profile",
     members: [
-      { img: "/img/team-4.jpeg", name: "Fernando Smith" },
-      { img: "/img/team-3.jpeg", name: "Jessica Doe" },
-      { img: "/img/team-2.jpeg", name: "Ryan Tompson" },
-      { img: "/img/team-1.jpeg", name: "Romina Hadid" },
+      { img: "/img/me-nerd.png", name: "Fernando Smith" },
+      { img: "/img/me-nerd.png", name: "Jessica Doe" },
+      { img: "/img/me-nerd.png", name: "Ryan Tompson" },
+      { img: "/img/me-nerd.png", name: "Romina Hadid" },
     ],
   },
   {
@@ -35,10 +35,10 @@ export const projectsData = [
       "Different people have different taste, and various types of music.",
     route: "/dashboard/profile",
     members: [
-      { img: "/img/team-1.jpeg", name: "Romina Hadid" },
-      { img: "/img/team-2.jpeg", name: "Ryan Tompson" },
-      { img: "/img/team-3.jpeg", name: "Jessica Doe" },
-      { img: "/img/team-4.jpeg", name: "Fernando Smith" },
+      { img: "/img/me-nerd.png", name: "Romina Hadid" },
+      { img: "/img/me-nerd.png", name: "Ryan Tompson" },
+      { img: "/img/me-nerd.png", name: "Jessica Doe" },
+      { img: "/img/me-nerd.png", name: "Fernando Smith" },
     ],
   },
   {
@@ -49,10 +49,10 @@ export const projectsData = [
       "Why would anyone pick blue over pink? Pink is obviously a better color.",
     route: "/dashboard/profile",
     members: [
-      { img: "/img/team-4.jpeg", name: "Fernando Smith" },
-      { img: "/img/team-3.jpeg", name: "Jessica Doe" },
-      { img: "/img/team-2.jpeg", name: "Ryan Tompson" },
-      { img: "/img/team-1.jpeg", name: "Romina Hadid" },
+      { img: "/img/me-nerd.png", name: "Fernando Smith" },
+      { img: "/img/me-nerd.png", name: "Jessica Doe" },
+      { img: "/img/me-nerd.png", name: "Ryan Tompson" },
+      { img: "/img/me-nerd.png", name: "Romina Hadid" },
     ],
   },
 ];
